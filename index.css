@@ -1,0 +1,14 @@
+h1{
+    text-align: center;
+    padding: 20PX;
+}
+
+.flex{
+    float: left;
+    padding: 20px;
+}
+
+.grid{
+    float: right;
+    padding: 20px;
+}
